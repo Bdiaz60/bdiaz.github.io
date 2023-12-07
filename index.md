@@ -4,7 +4,7 @@ This is my home page! My name is Brian Diaz and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/Bdiaz60/bdiaz.github.io.git.
+My GitHub page is https://github.com/Bdiaz60.
 
 ### CPSC 120
 
