@@ -10,20 +10,20 @@ My GitHub page is https://github.com/Bdiaz60/bdiaz.github.io.git.
 
 * Lab 1
 
-    Part 1 was a very notable Lab. At the time, it was very confusing.
+    Part one was a very notable Lab. At the time, it was very confusing.
     Although getting a clone, and pushing my code for the first time
     was very exciting. 
 
 
 * Lab 7 
 
-    Part 2 was very interesting to me, as I have started playing blackjack
+    Part two was very interesting to me, as I have started playing blackjack
     with my brother. Being able to code a game, and tell him about it,
     is very impressive. 
 
 
 * Lab 10
 
-    Part 2 was very intersting on my behalf, since it was the time we
+    Part two was very intersting on my behalf, since it was the time we
     started to learn about vectors. Being able to call out a specific
     term from a stored area was quite fascinating. 
